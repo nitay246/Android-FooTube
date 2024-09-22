@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ADVANCED_SYSTEM_PROGRAMING</string>
+    <string name="et_username">Username</string>
+    <string name="et_password">Password</string>
+    <string name="et_login">Login</string>
+    <string name="et_sign_up">Sign Up</string>
+    <string name="create_username">Create Username*</string>
+    <string name="create_password">Create Password*</string>
+    <string name="repeat_your_password">repeat your password*</string>
+    <string name="display_name">the name other users see*</string>
+    <string name="add_a_profile_picture">add a profile picture</string>
+    <string name="upload">Upload</string>
+    <string name="search">search</string>
+    <string name="Home">Home</string>
+    <string name="edit">Edit</string>
+    <string name="night_mode">NightMode</string>
+    <string name="video_name">enter title:</string>
+    <string name="enter_description">enter description:</string>
+    <string name="enter_url">enter url:</string>
+    <string name="upload_btn">Upload</string>
+    <string name="add_a_thumbnail">add a thumbnail</string>
+    <string name="save">Save</string>
+    <string name="profile_picture">pic</string>
+    <string name="delete_video">Delete Video</string>
+    <string name="BaseUrl">http://10.0.2.2:8000/api/</string>
+    <string name="the_users_username">the users username</string>
+    <string name="the_users_password">the users password</string>
+    <string name="update_password">update password</string>
+    <string name="edit_user_detailes">Edit user detailes</string>
+    <string name="upload_video" />
+    <string name="user_profile">user profile</string>
+    <string name="delete_user">Delete User</string>
+    <string name="edit_user">Edit User</string>
+    <string name="add_user">add_user</string>
+
+</resources>
+
